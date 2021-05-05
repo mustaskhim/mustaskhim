@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mustaskhim
+- 👋 Hi, I’m @mustassim
 - 👀 I’m interested in discovering and learning something new everyday!
 - 🌱 I’m currently learning Web development and cloud depolyment. 
 - 💞️ I’m looking to collaborate on projects - be it individual work to be able to build portfolios or Passion projects, I am always ready to help and collaborate!
